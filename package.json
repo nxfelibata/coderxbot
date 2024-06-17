@@ -1,6 +1,6 @@
 {
   "name": "coderx-bot",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Simple Wea Bot is Easy to Use ",
   "main": "index.js",
   "type": "module",
@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys-wa@11.0.0",
-    "ruhend-scraper": "*",
+    "coderx-scraper": "*",
     "file-type": "^18.0.0",
     "tiktokapi-src": "^1.2.0",
     "node-os-utils": "^1.3.7",
